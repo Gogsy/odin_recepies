@@ -1,9 +1,33 @@
-div {
-    color: white;
-    background-color: black;
+#lasagna {
+    width: 350px;
+    height: auto;
+}
 
+#lasagna-head {
+    width: max-content;
+    background-color: aqua;
+    color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: crimson;
+  
 }
 
 p {
-    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: #1d1d1d;
+}
+
+ul li {
+    list-style: none;
+    color: cornflowerblue;
+    font-size: medium;
+    font-family: inherit;
+    font-style: italic;
 }
