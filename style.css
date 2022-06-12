@@ -3,6 +3,16 @@
     height: auto;
 }
 
+#gnocchi {
+    width: 350px;
+    height: auto;
+}
+
+#bolognese {
+    width: 350px;
+    height: auto;
+}
+
 #lasagna-head {
     width: max-content;
     background-color: aqua;
